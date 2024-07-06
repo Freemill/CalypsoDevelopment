@@ -1,3 +1,22 @@
+Subject: Request for Access to Calypso Cookbook Code
+
+Dear pram,
+
+I hope this message finds you well.
+
+I am writing to kindly request access to the Calypso cookbook code. As someone deeply interested in calypso, I believe that the Calypso cookbook will be an invaluable resource for my work.
+
+I would be grateful if you could share the code or provide instructions on how I might obtain it. I assure you that I will use the code responsibly and in accordance with any guidelines or restrictions you may have.
+
+Thank you very much for considering my request. I look forward to your positive response.
+
+Best regards,
+
+Shin myung sang
+software developer in korea
+mongddangand@naver.com
+
+
 CalypsoDevelopment
 ============================
 
